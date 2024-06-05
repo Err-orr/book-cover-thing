@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+h1, h3, h2, p {
+  text-align: center;
+}
+
+h2 {
+  border-style: double;
+  background-color: black;
+  color: white;
+}
+
+body {
+  border-style: solid;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#hi-guys {
+  border-style: solid;
+}
